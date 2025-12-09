@@ -55,15 +55,6 @@ As part of the “Microcontrollers and Digital Systems” course, I implemented 
 
 ---
 
-## 6. Nanofabrication Laboratory Report (ETH Zurich)
-
-**Type:** Laboratory report  
-**Keywords:** cleanroom, nanofabrication, lithography, thin films, process integration  
-**File:** `Nanofabrication_Report_ETH_Zurich.pdf`
-
-This report documents my work in the ETH Zurich nanofabrication laboratory, where I followed full process flows including lithography, etching, deposition and characterization steps. The document details process parameters, design choices and measurement results, and reflects my familiarity with cleanroom workflows and constraints. Due to its size and level of detail, this report is intended as supplementary material for readers who wish to see more of my hands-on fabrication experience.
-
----
 
 ## How to Use This Repository
 
