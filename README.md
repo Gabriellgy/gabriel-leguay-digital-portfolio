@@ -55,6 +55,13 @@ As part of the “Microcontrollers and Digital Systems” course, I implemented 
 
 ---
 
+## 6. Nanosystems Literature Review (ETH Zurich)
+
+**Type:** Literature review & seminar presentation  
+**Keywords:** Single-electron transistor, CdSe nanocrystal, Coulomb blockade, quantum transport, nanoscale electronics  
+**File:** `Review-SET_Nanosystems.pdf`
+
+As part of the “Nanosystems” course, I prepared a literature review on a single-electron transistor based on a cadmium selenide (CdSe) nanocrystal. I summarized the device structure, operating principle (Coulomb blockade and charge quantization), and fabrication approach, and discussed its main limitations and potential applications in ultra-low-power electronics. The project culminated in a written report and an in-class seminar presenting the state of the art to my peers.
 
 ## How to Use This Repository
 
