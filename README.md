@@ -1,7 +1,7 @@
 # gabriel-leguay-digital-portfolio
 
 This repository gathers a selection of projects illustrating my background in superconducting electronics, quantum hardware, mechanical devices, precision mechatronics and embedded systems.  
-Most files are short slide decks or concise reports intended for quick review in the context of graduate applications and research positions.
+Most files are short slide decks or concise reports intended for quick review.
 
 ---
 
